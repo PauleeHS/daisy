@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+table {
+    width: 600px;
+    height: 400px;
+    margin: 2rem auto 0;
+}
+table th {
+    text-align: left;
+    padding-right: 3rem;
+}
+table ul {
+    display: flex;
+}
+table li {
+    margin-right: 1rem;
+}
