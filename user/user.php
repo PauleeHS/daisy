@@ -15,7 +15,7 @@
            <input type="password" name="pw" id="pw" placeholder="Password">
            <button type="submit">로그인</button>
             <div class="cover">
-                <a href="#">아이디 찾기</a><span> | </span><a href="#">패스워드 찾기</a><span> | </span><a href="#">회원가입</a>
+                <a href="#">아이디 찾기</a><span> | </span><a href="#">패스워드 찾기</a><span> | </span><a href="join.php">회원가입</a>
             </div>
        </form> 
     </section>

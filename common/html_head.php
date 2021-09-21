@@ -21,3 +21,8 @@
 	<script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
 	<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 	<script src="/common/common.js"></script>
+	<script>		
+		if (document.location.protocol == 'https:') {
+		    document.location.href = document.location.href.replace('https:', 'http:');
+		}
+	</script>
