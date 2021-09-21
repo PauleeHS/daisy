@@ -9,7 +9,7 @@
     ?>
     <div class="content">
     <section>
-       <form action="login.php" method="post">
+       <form action="login_ok.php" method="post">
            <h2>LOGIN</h2>
            <input type="text" name="id" id="id" placeholder="ID">
            <input type="password" name="pw" id="pw" placeholder="Password">
