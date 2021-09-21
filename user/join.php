@@ -14,7 +14,7 @@ function checkid(){
 </script>
 </head>
 <body>
-<form method="post" action="/common/member_ok.php">
+<form method="post" action="/user/member_ok.php">
 		<h1>회원가입 폼</h1>
 			<fieldset>
 				<legend>입력사항</legend>
